@@ -1,11 +1,11 @@
 # Pokemon Theme-team
 
 ## Summary
-Use Axios to request data from the [pokemon api](https://pokeapi.co/) to build a team of similar pokemon.
+Use Fetch to request data from the [pokemon api](https://pokeapi.co/) to build a team of similar pokemon.
 
 ## Goals
 - Create a webpage with a single button
-- When the button is clicked, use Axios to request data for a single, random pokemon.
+- When the button is clicked, use Fetch to request data for a single, random pokemon.
 - Request data for 5 other pokemon that share a type with the random pokemon.
 - Display pictures of all 6 pokemon on the screen. 
 
